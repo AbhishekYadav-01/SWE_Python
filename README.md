@@ -11,7 +11,7 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/AbhishekYadav-01/SWE_Python
 
 2. Install Dependencies
-Ensure you have installed all the necessary dependencies. You can do this by running:
+Ensure you have installed all the necessary dependencies.
 
 requests
 pandas
@@ -29,6 +29,5 @@ Please update the cookie as mentioned in the report (PDF).
 5. Start the Streamlit Dashboard
 Once the CSV files are created, run the following command to start the Streamlit dashboard:
 
-bash
-Copy code
 streamlit run subtask4_dashboard.py
+
