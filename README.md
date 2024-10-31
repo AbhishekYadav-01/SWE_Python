@@ -1,3 +1,17 @@
-# How to use : 
-Please clone this repo
-and please run Subtask_1_to_3.ipynb before so that it creates the csv files then run this cammand streamlit run subtask4_dashboard.py 
+# Option Chain Dashboard
+
+This repository provides a comprehensive solution for analyzing option chain data for NIFTY and HDFCBANK. It includes functionalities for fetching live data, processing it, visualizing it, and presenting it in an interactive dashboard.
+
+## How to Use
+
+1. **Clone the Repository**  
+   Clone this repository to your local machine using the following command:
+   git clone https://github.com/AbhishekYadav-01/SWE_Python
+   
+Make sure you have installed all the dependencies.
+
+3. **Run Subtasks 1 to 3**
+Execute the Jupyter Notebook Subtask_1_to_3.ipynb. This notebook fetches the latest option chain data and creates the necessary CSV files required for analysis. Make sure to run it in an environment that supports Jupyter Notebooks.
+5. **Start the Streamlit Dashboard**
+Once the CSV files are created, run the following command to start the Streamlit dashboard:
+streamlit run subtask4_dashboard.py
