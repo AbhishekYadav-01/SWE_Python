@@ -13,12 +13,7 @@ git clone https://github.com/AbhishekYadav-01/SWE_Python
 ### 2. Install Dependencies
 Ensure you have installed all the necessary dependencies.
 
-requests
-pandas
-matplotlib
-plotly
-streamlit
-notebook
+requests, pandas, matplotlib ,plotly, streamlit, notebook
 
 ### 3. Run Subtasks 1 to 3
 Execute the Jupyter Notebook Subtask_1_to_3.ipynb. This notebook fetches the latest option chain data and creates the necessary CSV files required for analysis. Make sure to run it in an environment that supports Jupyter Notebooks.
