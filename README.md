@@ -6,10 +6,9 @@ This repository provides a comprehensive solution for analyzing option chain dat
 
 1. **Clone the Repository**  
    Clone this repository to your local machine using the following command:
-   
    git clone https://github.com/AbhishekYadav-01/SWE_Python
    
-Make sure you have installed all the dependencies.
+2.  Make sure you have installed all the dependencies :
 requests
 pandas
 matplotlib
@@ -17,11 +16,8 @@ plotly
 streamlit
 notebook
 
-
 3. **Run Subtasks 1 to 3**
 Execute the Jupyter Notebook Subtask_1_to_3.ipynb. This notebook fetches the latest option chain data and creates the necessary CSV files required for analysis. Make sure to run it in an environment that supports Jupyter Notebooks.
-
-
 5. **Start the Streamlit Dashboard**
 Once the CSV files are created, run the following command to start the Streamlit dashboard:
 streamlit run subtask4_dashboard.py
