@@ -18,6 +18,9 @@ notebook
 
 3. **Run Subtasks 1 to 3**
 Execute the Jupyter Notebook Subtask_1_to_3.ipynb. This notebook fetches the latest option chain data and creates the necessary CSV files required for analysis. Make sure to run it in an environment that supports Jupyter Notebooks.
+4. **Imp**
+Please update the cookie as mensioned in the report.(pdf)
+
 5. **Start the Streamlit Dashboard**
 Once the CSV files are created, run the following command to start the Streamlit dashboard:
 streamlit run subtask4_dashboard.py
